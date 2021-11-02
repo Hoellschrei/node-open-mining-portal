@@ -164,7 +164,7 @@ a good pool operator. For starters be sure to read:
 Clone the repository and run `npm update` for all the dependencies to be installed:
 
 ```bash
-git clone github.com/Hoellschrei/node-open-mining-portal nomp
+git clone https://github.com/Hoellschrei/node-open-mining-portal nomp
 cd nomp
 npm update
 ```
